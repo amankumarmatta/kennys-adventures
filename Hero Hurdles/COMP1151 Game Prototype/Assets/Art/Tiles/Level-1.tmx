@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="64" tileheight="64" infinite="1" parallaxoriginx="1" parallaxoriginy="1" nextlayerid="3" nextobjectid="4">
+ <tileset firstgid="1" source="Tiles.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="30" height="20" offsetx="-896" offsety="-512">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="16" height="16">
+   eJxjYBgFo2DgwAYgXk8BXgvEayjAQ13/KiBeSQEGACkfQIc=
+  </chunk>
+   <chunk x="16" y="0" width="16" height="16">
+   eJxjYBgFo2DgwHo8eCMR+tfgweuooN+CET8mpN+cET+mVP9KBtx4NRH6AcXTJ1U=
+  </chunk>
+   <chunk x="32" y="0" width="16" height="16">
+   eJxjYBgFo2Bogw1AvB4H3khArwUjA8NaIL0GB15HQL/5INC/CkivxIFXE9APAPg2G9E=
+  </chunk>
+  </data>
+ </layer>
+ <objectgroup id="2" name="Colliders">
+  <object id="1" x="-894" y="131" width="1528" height="380"/>
+ </objectgroup>
+</map>
